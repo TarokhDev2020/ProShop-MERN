@@ -37,7 +37,8 @@ Install my-project with npm
   cd my-project
   npm install
 ```
-    
+Navigate to .env and place your MongoURI and Paypal Client Id
+
 ## Authors
 
 - [@tarokhdev2020](https://www.github.com/TarokhDev2020)
