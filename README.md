@@ -44,7 +44,8 @@ How to develope a fully complete ecommerce application with an admin panel to ma
   </td>
   <td>
    <img src="https://user-images.githubusercontent.com/72879576/174017958-1af0ca07-899f-44ce-a138-31d46edb21e2.png" alt="ProShop" width="700px" />
-  </td></td>
+  </td>
+  <td></td>
  </tr>
  <tr>
   <td>
